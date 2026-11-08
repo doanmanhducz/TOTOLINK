@@ -26,4 +26,4 @@ The lab network was loopback only. No physical device was tested.
 
 The issue was included in the X6000R report sent to fae@zioncom.net on 2026-10-02. The vendor later confirmed that the reported issues are fixed.
 
-Credit: Duc Doan
+Credit: doanmanhducz (Duc Doan)
