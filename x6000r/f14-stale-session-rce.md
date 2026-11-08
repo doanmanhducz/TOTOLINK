@@ -1,4 +1,4 @@
-# X6000R F14 — Unauthenticated command execution after a stale session
+# X6000R — Unauthenticated command execution after a stale session
 
 | Field | Value |
 |---|---|
